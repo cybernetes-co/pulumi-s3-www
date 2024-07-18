@@ -17,6 +17,8 @@ with `***`.
 
 1.  Restore NPM modules via `npm install` or `yarn install`.
 
+1.  Run `pulumi install` to install packages and plugins for the current program.
+
 1.  Run `pulumi up` to preview and deploy changes. After the preview is shown you will be
     prompted if you want to continue or not.
 
